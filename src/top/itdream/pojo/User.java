@@ -1,5 +1,10 @@
 package top.itdream.pojo;
 
+/**
+ * 用户实体
+ * @author cookie
+ *
+ */
 public class User {
 	private Long id;
 	private String username;
