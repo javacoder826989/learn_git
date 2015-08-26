@@ -2,7 +2,7 @@ package top.itdream.pojo;
 
 /**
  * 用户实体
- * @author cookie
+ * @author cookie update
  *
  */
 public class User {
