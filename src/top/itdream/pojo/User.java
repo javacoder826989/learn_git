@@ -4,6 +4,7 @@ public class User {
 	private Long id;
 	private String username;
 	private String password;
+	private String detail;
 
 	public Long getId() {
 		return id;
@@ -27,5 +28,13 @@ public class User {
 
 	public void setPassword(String password) {
 		this.password = password;
+	}
+
+	public String getDetail() {
+		return detail;
+	}
+
+	public void setDetail(String detail) {
+		this.detail = detail;
 	}
 }
